@@ -20,8 +20,12 @@
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
+
             </intent-filter>
+            <action android:name="com.ThreeDigital.bartalk.FullscreenActivity" />
+
         </activity>
+
     </application>
 
 </manifest>

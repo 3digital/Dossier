@@ -5,5 +5,9 @@
     <string name="action_settings">Settings</string>
     <string name="title">Welcome to my Dossier.</string>
     <string name="nameLabel">Name:</string>
-    <string name="nameData">unknown</string>
+    <string name="nameData">Devian Simmons</string>
+    <string name="ageData">33</string>
+    <string name="sexData">Male</string>
+    <string name="occupationData">Android Development</string>
+    <string name="xtraIntent">id</string>
 </resources>
